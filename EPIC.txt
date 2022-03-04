@@ -1,0 +1,18 @@
+﻿4 marca 2022 r.
+Epic
+Feature
+Rejestracja ze strony klienta – rejestracja jako osoba zainteresowana; możliwość zakupu biletu (?); wgląd w opis wydarzenia; mapa z miejscem wydarzenia; live stream wydarzenia; powiadomienia na mail/telefon; 
+Zarządzanie pracownikami – opcja wysłania formularza zgłoszeniowego; rejestracja; kalendarz z możliwością wybrania lub przypisania przez kierownika czasu pracy; kierownik ma możliwość edytowania listy osób (dodawania, usuwania, edytowania statusu)
+User story 
+Jako Patrycja chce mieć możliwość wysłania formularza, aby zostać wolontariuszką podczas wydarzenia. [20]
+Jako Adam chce mieć możliwość rejestracji w systemie, być na bieżąco z informacjami o wydarzeniu oraz móc śledzić live stream z wydarzenia. [2] 
+Jako Użytkownik chce mieć możliwość zalogowania się do systemu, żeby moc korzystac z funkcjonalnosci aplikacji [5]
+Jako Damian chce mieć możliwość zakupu biletu na stronie internetowej, by móc uczestniczyć w wydarzeniu. [20] 
+Jako organizator wydarzenia chce mieć wgląd do listy wolontariuszy, aby móc przypisywać im zadania do wykonania. [5]
+Jako uzytkownik chce mieć możliwość, przeczytania opisu wydarzenia, by moc poznac wiecej szczegolow. [3]
+Jako kierownik chce mieć możliwość zmienienia statusu dla pracownika, w kalendarzu [3]
+Jako kierownik chce mieć możliwość ustalania zadań dla wolontariuszy. [13]
+Jako kierownik chce mieć możliwość zapisu kontaktów do innych firm.[2]
+
+
+
